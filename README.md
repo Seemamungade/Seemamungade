@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Seema! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>
 
-<!--
-**Seemamungade/Seemamungade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+<b>Certification</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Google Data Analytics (file:///C:/Users/admin/Desktop/Coursera%20YDDMXCCBQ6RT.pdf)<b>
+- <b>Introduction to SQL (file:///C:/Users/admin/Desktop/Simlilearn%20SQL%20Certification.pdf)</b>
+- <b>Tableau 2022 A-Z:Hands On Tableau Training for Data Science (file:///C:/Users/admin/Desktop/Tableau%20Certificate.pdf)</b>
+  
+
+- <b>Data Exploration Project</b>
+  - <b>[Covid 19 Dataset  (Data Exploration using Sql)](https://github.com/Seemamungade/PP_Projects/blob/main/Data%20exploration%20Project1.0.sql)<b>
+
