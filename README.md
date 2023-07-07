@@ -1,6 +1,6 @@
-<h1>Hi, I'm Seema! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>
+<h1>Hi, I'm Seema Mungade! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+
 
 <b>Certification</b>
 
